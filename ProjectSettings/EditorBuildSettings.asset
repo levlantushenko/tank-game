@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 16780df725343c54cba56f352c964044
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 8262cb10c4c04994487c84304bb28895
+  - enabled: 1
+    path: Assets/Scenes/city.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/cliffs.unity
+    guid: 4a13ec9980d930b4d8e70cad07275c61
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: e2b68ed825675e24fa8ae5138c39b00d
+  m_configObjects: {}
